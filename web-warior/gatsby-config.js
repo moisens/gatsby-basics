@@ -7,4 +7,9 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetadata: {
+    title: 'Web Warior',
+    decription: 'web dev portfolio',
+    copyright: 'This website is copyright 2021 Web Warior'
+  }
 }
