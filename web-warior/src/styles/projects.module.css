@@ -13,7 +13,7 @@
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 80px;
+  gap: 80px;
   margin: 80px 20px;
 }
 .projects h3 {
